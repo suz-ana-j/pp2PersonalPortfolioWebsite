@@ -6,8 +6,8 @@ I created a Personal Portfolio page using HTML & CSS, and one interactive functi
 
 ## Code Explained
 * Header: the header is fixed using position: fixed in CSS, and scrolls down to the section that is clicked on, using scrollIntoView in JavaScript. 
-* Main: Main is divided into 3 <section>s. Some of the CSS styling for the paragraphs is right in the HTML! (hint: look for the bold tag)
-* I <link>ed my styles.css to HTML, and used <script> to link script.js
+* Main: Main is divided into 3 sections. Some of the CSS styling for the paragraphs is right in the HTML! (hint: look for the bold tag)
+* I linked my styles.css to HTML, and used <script> to link script.js
 * Semantic HTML was used throughout to make the site easy to read and accessible
 * Media queries for laptop, tablet, and mobile devices change the body's font size, header, h1 font-size, and nav li margin.
 * The toggle button changes the body's background color to black and font color to pink. ![SnowRabbitWowGIF](https://github.com/suz-ana-j/pp2PersonalPortfolioWebsite/assets/83844920/6b33a783-f8e9-4e25-8e6e-127ff514b1d4)
