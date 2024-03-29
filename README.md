@@ -17,7 +17,7 @@ I created a Personal Portfolio page using HTML & CSS, and one interactive functi
 Click on the nav buttons to find that section of the page. Watch as my github links change to pink when hovered over, and click on the links to see my portfolio projects so far (including this one)! Send a fake email to my fake email address, and have fun ❤️
 
 ## Technologies
-I'm learning more about Visual Studio Code with each new project. I used VS code for this project, but the process of commit and push origin main were different this time; I found buttons that pretty much do all of that for me! I was able to write most of the code by myself, plus with some help from Ai. I try to write most of the code myself to help me understand and remember it.
+I'm learning more about Visual Studio Code with each new project. I used VS code for this project, but the process of commit and push origin main were different this time; I found buttons that pretty much do all of that for me. I used Ai & my memory to write code for this project.
 
 
 ## Copyright
