@@ -1,3 +1,4 @@
+// Function for smooth scrolling a fixed header and nav
 function scrollToElement(elementId) {
     const element = document.getElementById(elementId);
         if (element) {

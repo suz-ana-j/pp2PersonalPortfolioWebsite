@@ -51,6 +51,16 @@ p {
     text-align: center;
 }
 
+#darkModeButton {
+    background-color: black;
+    color: pink;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    transition: background-color 0.3s ease-in-out;
+}
+
 
 
 
