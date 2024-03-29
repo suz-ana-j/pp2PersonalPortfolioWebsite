@@ -13,3 +13,11 @@ document.querySelectorAll('nav a').forEach(link => {
     });
 });
 
+// Dark mode toggle function
+
+function toggleDarkMode() {
+    const body = document.body;
+    body.classList.toggle('dark-mode');
+}
+
+
