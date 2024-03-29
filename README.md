@@ -10,13 +10,14 @@ I created a Personal Portfolio page using HTML & CSS, and one interactive functi
 * I linked my styles.css to HTML, and used <script> to link script.js
 * Semantic HTML was used throughout to make the site easy to read and accessible
 * Media queries for laptop, tablet, and mobile devices change the body's font size, header, h1 font-size, and nav li margin.
-* The toggle button changes the body's background color to black and font color to pink. ![OhMyItIsGIF](https://github.com/suz-ana-j/pp2PersonalPortfolioWebsite/assets/83844920/e7ff2a05-acad-4539-aa84-7fe87705fd07)
+* The toggle button changes the body's background color to black and font color to pink! ![It'SSoPrettyGradySmithGIF](https://github.com/suz-ana-j/pp2PersonalPortfolioWebsite/assets/83844920/de6c0ef4-c5ed-4ab7-af9f-e9f9cdd404a6)
+
 
 ## How To Use
 Click on the nav buttons to find that section of the page. Watch as my github links change to pink when hovered over, and click on the links to see my portfolio projects so far (including this one)! Send a fake email to my fake email address, and have fun ❤️
 
 ## Technologies
-I'm learning more about Visual Studio Code with each new project. I used VS code for this project, but the process of commit and push origin main were different this time; I found buttons that pretty much do all of that for me! I was able to write most of the code by myself, plus with some help from Ai.
+I'm learning more about Visual Studio Code with each new project. I used VS code for this project, but the process of commit and push origin main were different this time; I found buttons that pretty much do all of that for me! I was able to write most of the code by myself, plus with some help from Ai. I try to write most of the code myself to help me understand and remember it.
 
 
 ## Copyright
