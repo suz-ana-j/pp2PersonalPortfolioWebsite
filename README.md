@@ -6,7 +6,7 @@ I created a Personal Portfolio page using HTML & CSS, and one interactive functi
 
 ## Code Explained
 * Header: the header is fixed using position: fixed in CSS, and scrolls down to the section that is clicked on, using scrollIntoView in JavaScript. 
-* Main: Main is divided into 3 <section>s. Each section has an <h2> and one or more <p>s. Some of the CSS styling for the paragraphs is right in the HTML! (hint: look for the bold tag)
+* Main: Main is divided into 3 <section>s. Some of the CSS styling for the paragraphs is right in the HTML! (hint: look for the bold tag)
 * I <link>ed my styles.css to HTML, and used <script> to link script.js
 * Semantic HTML was used throughout to make the site easy to read and accessible
 * Media queries for laptop, tablet, and mobile devices change the body's font size, header, h1 font-size, and nav li margin.
