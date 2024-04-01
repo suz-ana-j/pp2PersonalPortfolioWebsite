@@ -14,7 +14,7 @@ I created a Personal Portfolio page using HTML & CSS, and one interactive functi
 
 
 ## How To Use
-Click on the nav buttons to find that section of the page. Watch as my Git Hub links change to pink when hovered over, and click on the links to see my portfolio projects so far (including this one)! Send a fake email to my fake email address. Have fun ❤️
+Click on the nav buttons to find that section of the page. Watch as my Git Hub links change to pink when hovered over, and click on the links to see my portfolio projects so far (including this one)! Send a fake email to my fake email address. Have fun 
 
 ## Technologies
 I'm learning more about Visual Studio Code with each new project. I used VS code for this project, but the process of commit and push origin main were different this time; I found buttons that pretty much do all of that for me. I used Ai to help me to code faster and to help me remember and understand the code concepts better. 
